@@ -1,6 +1,6 @@
 <br />
 <p align="center">
-    <img src="https://raw.githubusercontent.com/jugiorgi/GoBarber/ba33f55102a465db1cadc3f2971b9b4afbad1d82/frontend/src/assets/logo-purple.svg" alt="Logo" width="100" >
+    <img src="https://raw.githubusercontent.com/jugiorgi/Gobarber/ee0ad7f1f737efa9773ba2f2548caaa85f144969/frontend/src/assets/logo-purple.svg" alt="Logo" width="200" >
 </p>
 
 ## Sobre
