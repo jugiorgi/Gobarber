@@ -7,7 +7,10 @@
 
 O Gobarber é uma ferramenta para gerenciar atendimentos. Com ele é possível marcar um atendimento (mobile) e o prestador de serviço (frontend - web) recebe notificaçōes a respeito dos agendamentos e consegue ver uma planilha de horários preenchidos e vagos. 
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="Logo" width="50" >
+<p align="start">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="50" >
+    <img src="https://walde.co/wp-content/uploads/2016/09/nodejs_logo.png" alt="Node" width="34" >
+</p>
 
 ## Aplicação
 
