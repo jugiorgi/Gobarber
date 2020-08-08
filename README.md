@@ -12,16 +12,6 @@ O Gobarber é uma ferramenta para gerenciar atendimentos. Com ele é possível m
     <img src="https://walde.co/wp-content/uploads/2016/09/nodejs_logo.png" alt="Node" width="34" >
 </p>
 
-## Aplicação
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/jugiorgi/GoBarber/master/frontend/src/assets/preview/login.png" width="800" alt="login">
-  <img src="https://raw.githubusercontent.com/jugiorgi/GoBarber/master/frontend/src/assets/preview/signin.png" width="800" alt="signin">
-  <img src="https://raw.githubusercontent.com/jugiorgi/GoBarber/master/frontend/src/assets/preview/appointments.png" width="800" alt="appointment">
-  <img src="https://raw.githubusercontent.com/jugiorgi/GoBarber/master/frontend/src/assets/preview/profile.png" width="800" alt="profile">
-</p>
-
-
 ## Backend
 
 
@@ -75,3 +65,12 @@ yarn install
 ```sh
 react-native run-android
 ```
+
+## Aplicação
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jugiorgi/GoBarber/master/frontend/src/assets/preview/login.png" width="800" alt="login">
+  <img src="https://raw.githubusercontent.com/jugiorgi/GoBarber/master/frontend/src/assets/preview/signin.png" width="800" alt="signin">
+  <img src="https://raw.githubusercontent.com/jugiorgi/GoBarber/master/frontend/src/assets/preview/appointments.png" width="800" alt="appointment">
+  <img src="https://raw.githubusercontent.com/jugiorgi/GoBarber/master/frontend/src/assets/preview/profile.png" width="800" alt="profile">
+</p>
